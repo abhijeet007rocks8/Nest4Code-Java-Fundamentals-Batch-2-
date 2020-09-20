@@ -19,4 +19,13 @@ public class Day2Assigment_code1
     }
 }
 
-/*  */
+/*
+Algorithm-
+Step 0-START
+Step 1-Take inputs of the cost of the three items and tax percentage
+Step 2-Calculate the sum of the prices
+Step 3-Calculate Tax_Amount 
+Step 4-Add the Tax_Amount and sum of the prices
+Step 5-Display the final Amount
+Step 6-END
+*/
