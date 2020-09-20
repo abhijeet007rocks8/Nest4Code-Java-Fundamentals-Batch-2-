@@ -17,3 +17,15 @@ public class Day2Assignment_Code2
         System.out.println("Weight in pounds: "+pound);
     }
 }
+
+/*
+Algorithm-:
+Step 0-START
+Step 1-Take the inputs of Feet,inches and Kg
+Step 2-Convert feet into cm
+Step 3-Convert inches into cm
+Step 4-Add the values in Step 2 and 3 and store it
+Step 5-Convert kg into Pound and store it
+Step 6-Display the values in cm stored in Step 4 and pound stored in step 5
+Step 7-END
+*/
